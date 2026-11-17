@@ -1,4 +1,7 @@
-# 🌐 socks5-proxy-server
+
+
+
+# 🌐 Socks5 Proxy Server
 
 <p align="center">
   <img src="https://img.shields.io/badge/Downloads-16K+-1E3A8A?style=for-the-badge&logo=github" />
@@ -9,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-Free%20Guide-1E3A8A?style=for-the-badge&logo=opensourceinitiative" />
 </p>
 
-**🌐 socks5-proxy-server** is the complete English-language guide to standing up your own SOCKS5 proxy server. Learn how to install and configure Dante or a lightweight Node.js SOCKS5 server, add username/password auth, restrict access by IP, run it behind a firewall, and test throughput — with runnable configs and a security checklist. Built for sysadmins, developers, and privacy-conscious users who want a private egress point instead of a public proxy. **Completely free.** No signup. No paywall. No hidden chapters.
+**🌐 Socks5 Proxy Server** is the complete English-language guide to standing up your own SOCKS5 proxy server. Learn how to install and configure Dante or a lightweight Node.js SOCKS5 server, add username/password auth, restrict access by IP, run it behind a firewall, and test throughput — with runnable configs and a security checklist. Built for sysadmins, developers, and privacy-conscious users who want a private egress point instead of a public proxy. **Completely free.** No signup. No paywall. No hidden chapters.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" />
@@ -21,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A3E635&size=27&center=true&vCenter=true&width=920&lines=🌐+SOCKS5+Proxy+Server;🔐+Auth+%2B+Firewall+%2B+Restrict;🔄+Private+Egress;💙+100%25+Free+Guide">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A3E635&size=27&center=true&vCenter=true&width=920&lines=🌐+Socks5+Proxy+Server;🔐+Auth+%2B+Firewall+%2B+Restrict;🔄+Private+Egress;💙+100%25+Free+Guide">
 </p>
 
 <!-- Button 1 -->
@@ -32,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img width="720" height="405" alt="socks5-proxy-server" src="https://github.com/user-attachments/assets/socks5-proxy-server-banner" />
+  <img width="3200" height="1920" alt="5b06396d5f67dba5fe9dfd086e6a96bdf472af3e-3200x1920" src="https://github.com/user-attachments/assets/41b7a0c3-3a92-4a99-93d7-2d090bba006d" />
 </div>
 
 ---
@@ -106,13 +109,13 @@
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="cards/card-01.svg" alt="SOCKS5 Setup" width="300" />
+  <img width="320" height="280" alt="deepseek_svg_20261117_f7dc8c" src="https://github.com/user-attachments/assets/90bdaf8e-83c7-472c-9449-cf85699f3604" />
 </td>
 <td align="center" width="33%">
-  <img src="cards/card-02.svg" alt="Auth" width="300" />
+  <img width="320" height="280" alt="deepseek_svg_20261117_be712b" src="https://github.com/user-attachments/assets/e967f3de-670b-4620-a6c6-29038714d4a9" />
 </td>
 <td align="center" width="33%">
-  <img src="cards/card-03.svg" alt="ACL" width="300" />
+  <img width="320" height="280" alt="deepseek_svg_20261117_2bd42e" src="https://github.com/user-attachments/assets/5def0e37-6b59-403f-b6ab-b3343aa3043a" />
 </td>
 </tr>
 </table>
@@ -314,7 +317,7 @@ Yes — reproducible.
 
 ## 🏁 Conclusion
 
-**socks5-proxy-server** gives you a private egress point:
+**Socks5 Proxy Server** gives you a private egress point:
 
 - ✅ SOCKS5 setup
 - ✅ Auth
@@ -346,7 +349,7 @@ Yes — reproducible.
 ## 🔍 SEO Keywords and Tags
 
 ### Primary Keywords
-- socks5-proxy-server
+- Socks5 Proxy Server
 - SOCKS5 server setup
 - Dante proxy config
 - Node.js SOCKS5
