@@ -24,7 +24,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=A3E635&size=27&center=true&vCenter=true&width=920&lines=🌐+SOCKS5+Proxy+Server;🔐+Auth+%2B+Firewall+%2B+Restrict;🔄+Private+Egress;💙+100%25+Free+Guide">
 </p>
 
+<!-- Button 1 -->
+<div align="center">
+  <a href="https://share.google/uOEW0AVzqfN8gA6aU">
+    <img src="https://img.shields.io/badge/📖%20OPEN%20THE%20GUIDE-1E3A8A?style=for-the-badge&logo=google&labelColor=1C1917&color=A3E635" alt="Open the Guide" />
+  </a>
+</div>
 
+<div align="center">
+  <img width="720" height="405" alt="socks5-proxy-server" src="https://github.com/user-attachments/assets/socks5-proxy-server-banner" />
+</div>
 
 ---
 
@@ -195,6 +204,12 @@ Open only the port.
 ### Step 6 — Test
 `curl --socks5`.
 
+<!-- Button 2 -->
+<div align="center">
+  <a href="https://share.google/uOEW0AVzqfN8gA6aU">
+    <img src="https://img.shields.io/badge/🚀%20START%20THE%20GUIDE-1E3A8A?style=for-the-badge&logo=google&labelColor=1C1917&color=A3E635" alt="Start the Guide" />
+  </a>
+</div>
 
 ---
 
@@ -310,6 +325,12 @@ Yes — reproducible.
 
 **An open SOCKS5 port becomes someone else's proxy in minutes — this guide closes that window before it opens.**
 
+<!-- Button 3 -->
+<div align="center">
+  <a href="https://share.google/uOEW0AVzqfN8gA6aU">
+    <img src="https://img.shields.io/badge/⬇️%20OPEN%20THE%20GUIDE-1E3A8A?style=for-the-badge&logo=google&labelColor=1C1917&color=A3E635" alt="Open the Guide" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" />
